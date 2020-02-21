@@ -6,8 +6,7 @@ We have Data Memory and Instruction Memory. The instructions must be loaded to t
 My datapad support add,and,or,sub,lui,slt,sltu,addi,addiu,lb,lh,lw,sw,sh.
 
 ### RoadMap
-  This project has important lack. This version can not detect syntax error. I will implement error mechanisim as soon as possible.
-  If you want contribute to me for this problem , please contact me.
+  I will add other instructions to datapad as soon as possible.
   
 ### Contact
 osenturk@gtu.edu.tr
